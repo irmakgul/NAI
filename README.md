@@ -1,1 +1,1 @@
-mpp2 need: train and test .py
+mpp2 need: iris_train.py and iris_test.py
